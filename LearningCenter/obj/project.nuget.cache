@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+DL2+6oTvBs2JvY0C1Q+c+ZPXPlofmhpANRQVGiVf9jLTge5ay9BkmeZ+E82dv7ve8h8cg1yUWoxX+k//vohg==",
+  "success": true,
+  "projectFilePath": "D:\\LearningCenter\\LearningCenter\\LearningCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\komro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

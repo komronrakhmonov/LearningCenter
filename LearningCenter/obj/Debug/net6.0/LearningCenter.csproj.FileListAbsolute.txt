@@ -1,0 +1,17 @@
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.csproj.AssemblyReference.cache
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.AssemblyInfoInputs.cache
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.AssemblyInfo.cs
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.csproj.CoreCompileInputs.cache
+D:\LearningCenter\LearningCenter\bin\Debug\net6.0\LearningCenter.exe
+D:\LearningCenter\LearningCenter\bin\Debug\net6.0\LearningCenter.deps.json
+D:\LearningCenter\LearningCenter\bin\Debug\net6.0\LearningCenter.runtimeconfig.json
+D:\LearningCenter\LearningCenter\bin\Debug\net6.0\LearningCenter.dll
+D:\LearningCenter\LearningCenter\bin\Debug\net6.0\LearningCenter.pdb
+D:\LearningCenter\LearningCenter\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.csproj.CopyComplete
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.dll
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\refint\LearningCenter.dll
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.pdb
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\LearningCenter.genruntimeconfig.cache
+D:\LearningCenter\LearningCenter\obj\Debug\net6.0\ref\LearningCenter.dll

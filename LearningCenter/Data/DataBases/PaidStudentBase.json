@@ -1,0 +1,24 @@
+[
+  {
+    "PaidFor": "2023-02-01T00:00:00",
+    "Amount": 454545.0,
+    "PaidAt": "2023-02-07T13:51:01.8519444+05:00",
+    "PayType": 2,
+    "Id": 1,
+    "FirstName": "komron",
+    "LastName": "rahmonov",
+    "DateOfBirth": "2001-01-29T00:00:00",
+    "Type": 2
+  },
+  {
+    "PaidFor": "2022-01-01T00:00:00",
+    "Amount": 45454545454.0,
+    "PaidAt": "2023-02-07T13:52:39.0931525+05:00",
+    "PayType": 3,
+    "Id": 1,
+    "FirstName": "komron",
+    "LastName": "rahmonov",
+    "DateOfBirth": "2001-01-29T00:00:00",
+    "Type": 2
+  }
+]
